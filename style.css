@@ -19,7 +19,7 @@ html, body{
 }
 
 
-@media (max-width :600px) {
+@media (max-width :1000px) {
 
     .navBar{
         display: flex;
@@ -33,6 +33,10 @@ html, body{
 
 .material-symbols-outlined:hover{
     color: white;
+}
+
+@media (min-width:1000px) {
+    
 }
 
 .menu {
