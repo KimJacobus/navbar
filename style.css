@@ -1,0 +1,30 @@
+html, body{
+    margin: 0;
+}
+
+.navBar{
+    width: 100%;
+    height: 15%;
+    background-color: brown;
+}
+
+.burger{
+    display: none;
+    user-select: none;
+}
+
+
+@media (max-width :600px) {
+
+    .navBar{
+        display: flex;
+    }
+    .burger{
+        display: flex;
+    }
+    
+}
+
+.material-symbols-outlined:hover{
+    color: white;
+}
