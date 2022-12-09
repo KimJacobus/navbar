@@ -1,1 +1,1 @@
-lionel et kim creé un navbar
+lionel et kim créent un navbar
